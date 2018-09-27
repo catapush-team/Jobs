@@ -1,6 +1,6 @@
-#Senior Java Developer - Backend
+# Senior Java Developer - Backend
 
-##Descrizione
+## Descrizione
 
 Nell'ambito dell'innovativo progetto di messaggistica tramite **notifiche push** in [Catapush](http://www.catapush.com) ricerchiamo una figura di **Senior Java Developer - Backend**. Il candidato verrà inserito nella struttura come lead developer della parte di **backend in Java**.
 
@@ -8,7 +8,7 @@ Sono richieste attitudini al lavoro in team di poche persone, propensione allo s
 Il progetto innovativo su cui il candidato verrebbe coinvolto rendono questa proposta professionale un'opportunità ideale per candidature brillanti che ambiscono ad operare in realtà innovative e dinamiche.
 Catapush sarà certamente in grado di soddisfare le migliori candidature sotto tutti i punti di vista.
 
-##Skills richieste
+## Skills richieste
 
 *Requisiti tecnici:*
 
@@ -44,7 +44,7 @@ Catapush sarà certamente in grado di soddisfare le migliori candidature sotto t
 * Realizzazione di qualche progetto personale, idealmente su GitHub
 
 
-##Riguardo a Catapush
+## Riguardo a Catapush
 [Catapush](http://www.catapush.com) - opera nell'innovativo settore mobile della messaggistica push. La società ha sviluppato una piattaforma innovativa che permette alle aziende di inviare ai propri clienti notifiche push affidabili e tracciabili aggiungendo importanti funzionalità ai servizi push di base iOS ed Android. 
 
 Fondata da Davide Marrone, Luigi Orsi Carbone, Stefano Quintarelli, già co-founder di Skebby e tra i pionieri di Internet in Italia, nell'ambito di un piano di espansione ricerca un nuovo collaboratore per la sede in [Copernico](http://www.copernicomilano.it/) o da remoto.
