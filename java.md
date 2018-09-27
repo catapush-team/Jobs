@@ -48,3 +48,5 @@ Catapush sarà certamente in grado di soddisfare le migliori candidature sotto t
 [Catapush](http://www.catapush.com) - opera nell'innovativo settore mobile della messaggistica push. La società ha sviluppato una piattaforma innovativa che permette alle aziende di inviare ai propri clienti notifiche push affidabili e tracciabili aggiungendo importanti funzionalità ai servizi push di base iOS ed Android. 
 
 Fondata da Davide Marrone, Luigi Orsi Carbone, Stefano Quintarelli, già co-founder di Skebby e tra i pionieri di Internet in Italia, nell'ambito di un piano di espansione ricerca un nuovo collaboratore per la sede in [Copernico](http://www.copernicomilano.it/) o da remoto.
+
+Inviare la candidatura a: cv [at] catapush [dot] com
